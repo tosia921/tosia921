@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tomasz Posiadala
+- 🌱 I’m currently learning React frameworks like Gatsby.js and Next.js by building website's for real world client's.
+- 📫 Visit my website: https://www.tomaszposiadala.com
